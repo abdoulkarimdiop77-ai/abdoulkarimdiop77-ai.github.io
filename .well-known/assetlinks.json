@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.koto.cahierprofesseur",
+    "sha256_cert_fingerprints": ["D1:C1:39:5D:AE:76:B9:78:F6:61:4A:28:DE:19:E5:C7:59:BF:6A:CE:44:67:BF:21:51:97:3C:E1:A4:42:FB:48"]
+  }
+}]
